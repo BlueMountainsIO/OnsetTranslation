@@ -23,7 +23,7 @@ lang.hu={
     "on": "Be",
     "off": "Ki",
     "low": "Alacsony",
-    "medium": "Közepse",
+    "medium": "Közepes",
     "high": "Magas",
     "voice_activation": "Hangaktiválás",
     "push_to_talk": "Push To Talk",
