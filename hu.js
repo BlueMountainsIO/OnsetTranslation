@@ -3,7 +3,7 @@ lang.hu={
     "settings": "Beállítások",
     "quit": "Kilépés",
     "internet": "Internet",
-    "favorites": "Kevencek",
+    "favorites": "Kedvencek",
     "history": "Előzmények",
     "direct_connect": "Direkt csatlakozás",
     "refresh_list": "Lista frissítése",
